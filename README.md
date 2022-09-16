@@ -1,4 +1,5 @@
 # tour-in-rion-tp9
+https://tour-in-rio-vuejs.netlify.app/#/
 
 ## commands npm
 
